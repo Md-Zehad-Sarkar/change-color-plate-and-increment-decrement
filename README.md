@@ -1,3 +1,23 @@
+# Instruction for this site
+
+`
+
+- 1: You have to create 3 components called parent, child1 and child2
+  Parent has a state named money of type number which child1 and child 2 need to update. child 1 will increment it by 1000 and child 2 will decrement by 500 on click of a button.
+
+Print the final value in the parent component.
+
+- High level view
+  <Parent>
+  <Child1/>
+  <Child2/>
+  </Parent>
+
+Q2: Create a color palette having 8 colors.
+User can replace any color with new
+User can reorder this palette using drag and drop
+`;
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
